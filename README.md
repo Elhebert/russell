@@ -2,7 +2,6 @@
 
 This is Russell, a light **ES6 javascript** module to create a scrollspy.
 
-Why Russell ?
 > It was a cinch with my Wilderness Explorer GPS
 
 ![russell](https://i.imgflip.com/160r3l.gif)
