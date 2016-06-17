@@ -1,0 +1,6 @@
+{
+  "name": "Russell",
+  "tagline": "ES6 script to create a scrollspy.",
+  "body": "# Russell\r\n\r\nThis is Russell, a light **ES6 javascript** module to create a scrollspy.\r\n\r\n> It was a cinch with my Wilderness Explorer GPS\r\n\r\n![russell](https://i.imgflip.com/160r3l.gif)\r\n\r\n## Usage\r\n\r\nAdd the **russell.js** file to your index.(html|php).\r\n```\r\n<script src=\"/path/to/russell.js\"></script>\r\n```\r\n\r\nAdd `data-scroll` on the link that is going to be spying on the scroll.\r\n\r\n```\r\n<a data-scroll=\"anchor\">My link</a>\r\n\r\n...\r\n\r\n<my-element id=\"#anchor\">\r\n</my-element>\r\n```\r\n\r\nWhen the page reach the matching section, the link will have the css class `current`.\r\nYou can thus, customize it.\r\n\r\n\r\n## Options\r\n\r\n### Offset\r\nAdd an offset to the element.\r\n\r\nThe offset will define the distance (in pixel) between the top of the page and the element.\r\n\r\nUsage:\r\n```\r\n<my-element data-offset=\"50\"></my-element>\r\n```\r\n\r\n## License\r\nThis script is published under the [MIT license](./LICENSE)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
